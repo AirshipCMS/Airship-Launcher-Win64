@@ -1,0 +1,20 @@
+VERIFICATION
+
+Verification is intended to assist the Chocolatey moderators and community
+in verifying that this package's contents are trustworthy.
+
+Package can be verified like this:
+
+1. Download the following binaries:
+
+   airship:        <https://install.airshipcms.io/Win64/2.3.4/airship.exe>
+   airship-server: <https://install.airshipcms.io/Win64/2.3.4/airship-server.exe>
+
+2. You can use one of the following methods to obtain the checksum
+
+   - Use powershell function 'Get-Filehash'
+   - Use chocolatey utility 'checksum.exe'
+
+   checksum type: sha256
+   checksum airship:        62F79484DA77ADA93EAA226D8BD9AA5B116E047962EDB257874854126C2796D2
+   checksum airship-server: 93A466229A1606D72DD1D536692ABC4C7207887F5F30EE4C85A67A0A8180420F
