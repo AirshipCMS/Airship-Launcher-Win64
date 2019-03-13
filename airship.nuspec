@@ -11,7 +11,7 @@
     <packageSourceUrl>https://github.com/AirshipCMS/Airship-Launcher-Win64</packageSourceUrl>
     <iconUrl>https://avatars3.githubusercontent.com/u/11922393</iconUrl>
     <copyright>(c) 2019 Goma Games LLC</copyright>
-    <licenseUrl>https://raw.githubusercontent.com/AirshipCMS/Airship-Launcher-Win64/master/LICENSE.txt</licenseUrl>
+    <licenseUrl>https://raw.githubusercontent.com/AirshipCMS/Airship-Launcher-Win64/master/tools/LICENSE.txt</licenseUrl>
     <requireLicenseAcceptance>true</requireLicenseAcceptance>
     <docsUrl>https://airshipcms.io/documentation/view/airship-cli-commands</docsUrl>
     <tags>airship cms cli web development deployment</tags>
